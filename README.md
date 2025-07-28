@@ -8,7 +8,7 @@ Este projeto apresenta a modelagem de um banco de dados para um supermercado, in
 
 Abaixo está o diagrama que representa a modelagem do banco de dados:
 
-![Modelo de Banco de Dados](./9cfa9999-e71c-45fd-af6f-6ea98dffcad2.png)
+![Modelo de Banco de Dados](./Untitled.png)
 
 ---
 
